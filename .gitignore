@@ -1,0 +1,12 @@
+# Entornos virtuales
+env/
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos procesados (se regeneran ejecutando los notebooks)
+data/processed/*.parquet
