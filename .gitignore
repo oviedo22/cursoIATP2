@@ -10,3 +10,8 @@ __pycache__/
 
 # Datos procesados (se regeneran ejecutando los notebooks)
 data/processed/*.parquet
+
+Notebook4.md
+Notebook5.md
+Notebook6.md
+
